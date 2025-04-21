@@ -1,0 +1,9 @@
+count = 1
+
+while count <= 3:
+
+ print(count)
+
+ count += 1
+
+# Output: 1 2 3
